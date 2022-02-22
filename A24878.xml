@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the besieging the castle of Edinburgh, kept by the Duke of Gourdon together with the manner of the surrender thereof, on Thursday the 13th of June, 1689.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24878</idno>
+            <idno type="STC">Wing A249A</idno>
+            <idno type="STC">ESTC R177489</idno>
+            <idno type="EEBO-CITATION">12929736</idno>
+            <idno type="OCLC">ocm 12929736</idno>
+            <idno type="VID">95624</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24878)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95624)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the besieging the castle of Edinburgh, kept by the Duke of Gourdon together with the manner of the surrender thereof, on Thursday the 13th of June, 1689.</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Advertisement: p. 2.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gordon, Alexander, --  Sir, 1650-1726.</term>
+               <term>Edinburgh Castle (Edinburgh, Scotland). --  Siege, 1689.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:95624:1"/>
+            <head>An ACCOUNT of the BESIEGING The CASTLE of <hi>EDINB<g ref="char:V">Ʋ</g>RGH.</hi> Kept by the <hi>Duke of Gourdon,</hi> Together with the manner of the Surrender thereof, On <hi>Thurſday</hi> the 13th. of <hi>June.</hi> 1689.</head>
+            <p>ON <hi>Thurſday</hi> Night after my Writing to you, there were a great many <hi>Bombs</hi> ſhot off the South Trench to<g ref="char:EOLhyphen"/>wards the Caſtle, which did no great Hurt there, one of which being ſomewhat ſhort, fell into one of the Suburbs called <hi>Portsbrught,</hi> which did a great deal of Harm to a Baker, by abuſing all his Bread, Meal, and other things, and hit a Man very ill on the Back, which may tend very much to his hurt, and Burn'd the Houſe; and the Night after there was another <hi>Bomb</hi> ſhot, that by the Combuſtable Compoſi<g ref="char:EOLhyphen"/>tion of the Powder and falling on the next adja<g ref="char:EOLhyphen"/>cent Houſe, Burnt it: Likewiſe another <hi>Bomb</hi> being Poyſoned and ſhot into the Caſtle, fell in<g ref="char:EOLhyphen"/>to their <hi>Well,</hi> and hath Poyſoned their Water, which I believe, will be the firſt means to cauſe him to Surrender.</p>
+            <p>The ſame day there was a great many <hi>Bombs</hi> ſhot againſt the Caſtle, as likewiſe Guns from the Battery, which hath torn ſome part of the <hi>Half Moon</hi> and <hi>Counterſcarp;</hi> and what hurt elſe they have done, we cannot as yet give an Ac<g ref="char:EOLhyphen"/>count, but ſure not without conſiderable Loſs.</p>
+            <p>The Duke of <hi>Gordon</hi> ſeems to be very angry at the loſs of the Men that deſerted him, which I mentioned in my laſt, by firing ſmall Shot down upon the Town, and his playing very hard upon all the Trenches and Batteries, by reaſon of their being called in before the Coun<g ref="char:EOLhyphen"/>cil, and have declared ſome things that doth not pleaſe him, and will tend much to his hurt, and Diſcovered ſome of them that gave him private Intelligence, and do ſtill, ſince the City hath been in a poſture of Defence.</p>
+            <p>One Captain <hi>Young,</hi> who belongs to Ma<g ref="char:EOLhyphen"/>jor General <hi>Mackay</hi> with 300 of the new Le<g ref="char:EOLhyphen"/>vied Men, hath Defeated the <hi>Maclans</hi> and <hi>Mac<g ref="char:EOLhyphen"/>donalds,</hi> although their Number were twice as many, by ſinking of two Boats and Killing 40 on Land, and put all the reſt to Flight.</p>
+            <p>From <hi>Inverneſs</hi> it is reported here, that a Scout Party of the Viſcount of <hi>Dundee</hi> came to Surprize <hi>Mackay,</hi> thinking to have found him Napping, but his Scouts being likewiſe out, they were deceived, and were handled warmly by <hi>Mackay,</hi> and two Gentlemen Killed, <hi>viz.</hi> one <hi>Jimes</hi> of <hi>Corkſtoun</hi> and <hi>Kinaird</hi> of <hi>Coul<g ref="char:EOLhyphen"/>bin,</hi> but how many more we know not.</p>
+            <p>This day by Beat of Drum, there was a Pro<g ref="char:EOLhyphen"/>clamation throughout the City, for all Perſons that would be pleaſed to Enter into a New Company that the Town will have to be Set<g ref="char:EOLhyphen"/>led beſides their Trained Bands, conſiſting of 130. Men which are to have due pay; and before the 8th. Inſtant they will be Compleated.</p>
+            <p>
+               <hi>Tueſday</hi> night and <hi>Wedneſday</hi> night, they ſhot a great many Shots from the Caſtle upon the new Batteries that lye upon the North-ſide of the City; ſome Souldiers out of which gives an Account, that there was three or four Kill'd and ſeveral Wounded,</p>
+            <p>This Night there is a <hi>Sconce</hi> made at the up<g ref="char:EOLhyphen"/>per end of the Town, neareſt to the Caſtle, which we believe will do harm to the Caſtle, and the Caſtle to the Town.</p>
+            <p>A <hi>Yatch</hi> arrived at <hi>Newport Glaſcow</hi> upon <hi>Clyde,</hi> from <hi>London-Derry</hi> on <hi>Sunday,</hi> which brings the News of the Landing of Colonel <hi>Kirk</hi>'s Men, being three Regiments, they de<g ref="char:EOLhyphen"/>ſcending by the Fort of <hi>Kilmore,</hi> by the <hi>Iriſh,</hi> and the raſing of the Siege of <hi>Derry</hi> is confir<g ref="char:EOLhyphen"/>med.</p>
+            <p>It's ſaid the Late King <hi>James</hi>'s Forces are drawing a pace down toward the <hi>North,</hi> and the Places about <hi>Balfaſt</hi> and <hi>Craig fergus</hi> are fil<g ref="char:EOLhyphen"/>led with Souldiers, and more coming every day.</p>
+            <p>
+               <hi>Friday June</hi> 7. This day arrived here an Ex<g ref="char:EOLhyphen"/>preſs from <hi>Kintire,</hi> with the Confirmation that I mentioned in my laſt concerning the <hi>High<g ref="char:EOLhyphen"/>landers;</hi> and further adds, That there were five Boats Sunk, and three Taken, with the greateſt part of their <hi>Clans,</hi> who were bringing over Men to Land here from <hi>Ireland;</hi> and two Frigots be<g ref="char:EOLhyphen"/>longing to <hi>Scotland</hi> continue Cruiſing on the <hi>Weſt</hi> Seas, to hinder the <hi>Iriſh</hi> Landing in <hi>Scotland.</hi>
+            </p>
+            <p>It is reported, that <hi>Mackay</hi> hath Blow'd up the Wood in which the Earl of <hi>Dundee</hi> is lying,
+<pb n="2" facs="tcp:95624:2" rendition="simple:additions"/>and we hourly expect Intelligence of their Meet<g ref="char:EOLhyphen"/>ing each other; but it's thought that <hi>Dundee</hi> will not Fight <hi>Mackay,</hi> although it's reported he hath about 3000 Foot, and 300 Horſe; but what is his deſign, it is not known, but we ſhall have to Morrow a more full Account.</p>
+            <p>On the 19th. of <hi>May</hi> there was a great Con<g ref="char:EOLhyphen"/>tribution gathered at the Doors of the Meet<g ref="char:EOLhyphen"/>ing-houſes, and on <hi>Sunday</hi> laſt at the Doors of the Regular <hi>Clergy</hi> Churches, for the Subſiſtance of the <hi>Iriſh Proteſtants;</hi> at which Doors there was a great deal of Money received, but was not diſtributed amongſt them till <hi>June</hi> the 8th. when the Lord <hi>Provoſt, Baliffs, Counſellors</hi> and <hi>Deacons</hi> of <hi>Craft</hi> thought it fit that they ſhould have Succour out of the ſaid Contribution, for which cauſe the <hi>Provoſt</hi> and <hi>Baliffs</hi> hath thought ſit this day by Beat of Drum to cauſe a Procla<g ref="char:EOLhyphen"/>mation to be made through the Street to call all the <hi>Iriſh</hi> Proteſtants to come and receive Money according as their Circumſtances are, <hi>viz.</hi> They that have Wives and Children, and more eſpecially they that have had Fortunes there, with the <hi>Proviſo</hi> that they bring their Teſtificates with them; which being done, they will get as much as either will Tranſport them, or keep them here untill they be in a Capacity to do for themſelves.</p>
+            <p>There was this day ſome Souldiers Killed in the <hi>South</hi> Battery, and likewiſe ſome Wounded, who were carried home from the Camp on Horſeback to their Quarters.</p>
+            <p>
+               <hi>Clovers</hi> is ſaid to have (by an <hi>Expreſs</hi> this Night come to Town) about 3000 Foot, and 300 Horſe, but would not as yet Fight <hi>Mackay.</hi> By the <hi>Glaſcow</hi> News we have our laſt aſſerted, about the Sinking of the <hi>Birlins.</hi>
+            </p>
+            <p>
+               <hi>Monday</hi> 10. Our <hi>Northern</hi> Letters gives an Ac<g ref="char:EOLhyphen"/>count, that <hi>Mackay</hi> finding he could not get the Viſcount of <hi>Dundee</hi> and his <hi>Highland</hi> Forces to deſert a Wood wherein he commonly made the Place of his Refuge, <hi>Mackay</hi> wrote to Col<g ref="char:EOLhyphen"/>onel <hi>Ramſay,</hi> and told him, that he intended to take the Flying part towards the Low-Countries, as if he had been afraid of <hi>Clover</hi>'s Horſe, but he did it on purpoſe to draw him from that Strength that he had in the Wood; but the <hi>High-landers</hi> thought he had Fled, and ſo pur<g ref="char:EOLhyphen"/>ſued him, which when <hi>Mackay</hi> found, he cal<g ref="char:EOLhyphen"/>led a Council of War, and immediately it was condeſcended that he ſhould Fight <hi>Clovers,</hi> which accordingly was done; and in the mean time Colonel <hi>Ramſay</hi> got between <hi>Clovers</hi> and the Wood, <hi>Mackay</hi> Charged on the Front, beating in his outer Guards, diſperſed many of his Foot, and hath Killed and taken many of them, to<g ref="char:EOLhyphen"/>gether with his Page, Sumptar, Horſe and Bag<g ref="char:EOLhyphen"/>gage, and other Proviſions: He immediately Fled with a ſmall Party of Horſe, and Colonel <hi>Ramſay</hi> is in Purſuit of him; and likewiſe there are ſeveral Letters found upon his Page, in which is found out, that there has been a private Cor<g ref="char:EOLhyphen"/>reſpondence betwixt ſome of the Commanders that belongs to <hi>Mackay</hi> and <hi>Clovers,</hi> and they that have done it are taken and put under an Arreſt; and <hi>Gordon</hi> of <hi>Ingleſſay</hi> Hanged 14 of <hi>Clovers</hi>'s M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n that ſtaid behind for Pillage.</p>
+            <p>This day there was by a City Marſhal Con<g ref="char:EOLhyphen"/>demn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d two Perſons, the one Lieutenant <hi>Hay,</hi> and a Woman in the Name of <hi>Cunningham,</hi> for Correſponding with the Duke of <hi>Gourdon.</hi>
+            </p>
+            <p>This ſame dny one Mr. <hi>Bruice</hi> a <hi>German</hi> and <hi>Roman Catholick,</hi> who hath Reſided here this long time, and did bring in the Water to the Town of <hi>Edinburgh,</hi> hath been in Priſon this Month paſt, but laſt night he went out of the Priſon without any Keys, and went to a Houſe oppoſite to the Priſon and called for a Drink of Ale, and after he had received it, he went to Priſon again without any interruption; and then within an hour after, he coming down Stairs to drink in the ſame Houſe, he called at one of the doors of the Priſon to one Mr. <hi>Bre<g ref="char:EOLhyphen"/>die</hi> to come out and take his Liberty, (he for<g ref="char:EOLhyphen"/>merly being a Servant to the Earl of <hi>Murray</hi>) but he denied to come out; ſo he went by him<g ref="char:EOLhyphen"/>ſelf and took his Mornings Draught, and came back again to the Priſon being before and all the Wards Locked: The Man in whoſe Houſe the ſaid Mr. <hi>Bruice</hi> came to drink, did ſend in the Morning for one of the Magiſtrates of the City, who going into the Priſon with ſeveral Credible Witneſſes, did call for the aforeſaid <hi>Bruice,</hi> and Examined him by what means he got out and in to the ſaid Priſon, who told them, That there was no Lock nor Key made that could keep him in if ſo be that he pleaſed; up<g ref="char:EOLhyphen"/>on which the Magiſtrates and Witneſſes asked him by what means he could do it; he deſired the keeper of the Priſon to Lock the Doors faſt and he would ſhew it them; which being done, he came to the Door and ſtruck it one blow with his Hat, and immediately the Doors fell open; after that the Magiſtrate ſaid, that he would lay him in Irons; to which he anſwered, that he did not value them, for he could break them in piec<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>June</hi> 13. T<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is day the Duke of <hi>Gourdon</hi> Beat a Parley and ſet ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a W<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Flagg, and after Communing, a Gentleman went into the C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtle and paſſed the Centinals, who are ſecu<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and Condemned by a Court Martial.</p>
+            <p>The ſame Night the Caſtle was Surrendred, and Lieutenant Colonel <hi>Mackay</hi> entered it with 300 Fuzeliers, betwixt Eleven and Twelve a Clock at Night. The particulars of the Treaty was as follows; That he would Surrender the Caſtle upon Reaſonable and Honourable terms, But deſired to know whether he ſhould Treat with the Commanding-Officer, or with His Grace the Lord Commiſſioner? This being an<g ref="char:EOLhyphen"/>ſwered, he deſired an Honourable Capitulation, which was refuſed, and Anſwer returned, that he ſhould Surrender upon Diſcretion, to be diſ<g ref="char:EOLhyphen"/>poſed of as His <hi>Majeſty</hi> thinks fit; which the Duke accepted of; and accordingly he and the whole Gariſon Submitted and laid down their Arms, and opened the Gates to receive Lieu<g ref="char:EOLhyphen"/>tenant Colonel <hi>Mackay;</hi> who are made Priſo<g ref="char:EOLhyphen"/>ners of War, to be diſpoſed of as His <hi>Majeſty</hi> pleaſes.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>☞ <hi>The</hi> Luſtful Fryer: <hi>Or the Tragical Hiſtory of the Founder of</hi> Lincolnſhire <hi>Revived. a Poem by way of Burleſque.</hi> Sold by <hi>George Croom,</hi> at the <hi>Blew-Ball</hi> in <hi>Thames-ſtreet,</hi> and moſt Book<g ref="char:EOLhyphen"/>ſellers in <hi>London</hi> and <hi>Weſtminſter.</hi> Price 1 <hi>s.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Croom,</hi> at the <hi>Blu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-Ball</hi> in <hi>Thames-ſtreet.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
